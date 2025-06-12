@@ -1,0 +1,11 @@
+/Users/anja/Desktop/ASPNET/Business/bin/Debug/net9.0/Business.deps.json
+/Users/anja/Desktop/ASPNET/Business/bin/Debug/net9.0/Business.dll
+/Users/anja/Desktop/ASPNET/Business/bin/Debug/net9.0/Business.pdb
+/Users/anja/Desktop/ASPNET/Business/obj/Debug/net9.0/Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anja/Desktop/ASPNET/Business/obj/Debug/net9.0/Business.AssemblyInfoInputs.cache
+/Users/anja/Desktop/ASPNET/Business/obj/Debug/net9.0/Business.AssemblyInfo.cs
+/Users/anja/Desktop/ASPNET/Business/obj/Debug/net9.0/Business.csproj.CoreCompileInputs.cache
+/Users/anja/Desktop/ASPNET/Business/obj/Debug/net9.0/Business.dll
+/Users/anja/Desktop/ASPNET/Business/obj/Debug/net9.0/refint/Business.dll
+/Users/anja/Desktop/ASPNET/Business/obj/Debug/net9.0/Business.pdb
+/Users/anja/Desktop/ASPNET/Business/obj/Debug/net9.0/ref/Business.dll
